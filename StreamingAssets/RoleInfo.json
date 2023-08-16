@@ -1,0 +1,33 @@
+{
+	"roleJsons":
+	[
+		{
+			"roleName":"史来贺",
+			"roleDes":"史来贺（1930年7月3日—2003年4月23日，1930年7月25日出生），男，汉族，中共党员，河南新乡人，全国劳动模范、全国优秀共产党员、全国优秀党务工作者，第三、五、六、七、八、九、十届全国人民代表大会代表，中共十三大至十六大代表，第五至八届全国人大常委，河南省新乡市刘庄村原党委书记。",
+			"roleURL":@"https://baike.baidu.com/link?url=FzNtDUQrATTUqBtE4aAp-xpnZwsXUVQjZ9qtch3d6taYYL53uVGH21fes9XUoEKl-RJRN4dv_58kbshsRV-HHPO7oU4IaBEdRkTlOl1AAslmExro4e5zl3Bed6FQI5_e",
+			"roleImagePath":"UI/史来贺",
+			"roleVideoPath":"/Videos/史来贺.mp4"
+		},
+		{
+			"roleName":"裴春亮",
+			"roleDes":"男，汉族，1970年3月出生，中共党员，河南新乡人，第十一届、十二届全国人大代表、全国道德模范、全国优秀共产党员、中国最美村官、新乡市劳动模范、新乡市十大杰出青年、中国十大杰出青年农民、爱心中国-中华慈善人物、河南省道德楷模全国道德模范提名奖。光荣入选“中国十大杰出青年”。",
+			"roleURL":@"https://baike.baidu.com/item/%E8%A3%B4%E6%98%A5%E4%BA%AE?fromModule=lemma_search-box#1",
+			"roleImagePath":"UI/裴春亮",
+			"roleVideoPath":"/Videos/裴春亮.mp4"
+		},
+		{
+			"roleName":"张荣锁",
+			"roleDes":"男，汉族，1952年出生，中共党员，河南辉县上八里镇回龙村党支书，第十、十一届全国人大代表、中共河南省辉县市回龙村总支书记。 2002年CCTV “感动中国”年度人物。",
+			"roleURL":@"https://baike.baidu.com/item/%E5%BC%A0%E8%8D%A3%E9%94%81?fromModule=lemma_search-box",
+			"roleImagePath":"UI/张荣锁",
+			"roleVideoPath":"/Videos/张荣锁.mp4"
+		},
+		{
+			"roleName":"吴金印",
+			"roleDes":"男，汉族，1942年7月出生，河南卫辉人，大学文化，农艺师，1960年1月加入中国共产党。全国优秀乡镇党委书记。曾任河南汲县李元屯公社大队会计、大队长、大队党支部书记、公社党委委员、团委书记，新乡市人大常委会副主任。现任河南省卫辉市唐庄镇党委书记，第十五届中央候补委员。",
+			"roleURL":@"https://baike.baidu.com/item/%E5%90%B4%E9%87%91%E5%8D%B0/6659118?fromModule=lemma_search-box",
+			"roleImagePath":"UI/吴金印",
+			"roleVideoPath":"/Videos/吴金印.mp4"
+		}
+	]
+}
